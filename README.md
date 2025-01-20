@@ -1,5 +1,5 @@
 
-this is pythone script used to remove water marke from image 
+this is python script used to remove water marke from image 
 
 how to run
 python version : 3.13.1
